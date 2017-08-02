@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+### E-mail:
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> [zy3381@gmail.com](mailto:zy3381@gmail.com)
 
 ---
 
-## Social
+### Mailing Address
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> B320, College of Computer Science, Sichuan University, Wangjiang Campus, Chengdu, P.R. China 
+
+---

@@ -1,10 +1,8 @@
-title: Researcher
-url: "http://ankitsultana.com"
-baseurl: "/researcher"
+title: Yao Zhou's Homepage
+url: ""
+baseurl: "."
 
-markdown: kramdown
-
-tracking_id: #
+# markdown: kramdown
 
 sass:
     style: compressed
